@@ -11,4 +11,4 @@ Este é o arquivo que eu estou criando para testar os comandos do git e pratica-
 
 # Esse, Essa e Isso 
 
--São usados com objetos que estão próximos da pessoa com quem se fala
+- São usados com objetos que estão próximos da pessoa com quem se fala
