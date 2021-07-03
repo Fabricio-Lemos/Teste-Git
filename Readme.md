@@ -8,6 +8,7 @@ Este é o arquivo que eu estou criando para testar os comandos do git e pratica-
 # Este, Esta e Isto
 
 - são usados para objetos que estão proximos do falante
+- Em relação ao tempo, são usados no presente.
 
 # Esse, Essa e Isso 
 
